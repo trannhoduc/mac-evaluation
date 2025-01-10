@@ -1,6 +1,3 @@
-from numpy.random import randn
-import math
-import random
 import numpy as np
 import matplotlib.pyplot as plt
 
